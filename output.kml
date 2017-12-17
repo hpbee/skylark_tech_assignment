@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_92">
+        <Style id="stylesel_16">
+            <IconStyle id="substyle_33">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_16">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_32">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_17">
+            <IconStyle id="substyle_35">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_17">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_34">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_18">
+            <IconStyle id="substyle_37">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_18">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_36">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_19">
+            <IconStyle id="substyle_39">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_19">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_38">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_20">
+            <IconStyle id="substyle_41">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_20">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_40">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_21">
+            <IconStyle id="substyle_43">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_21">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_42">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_22">
+            <IconStyle id="substyle_45">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_22">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_44">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_23">
+            <IconStyle id="substyle_47">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_23">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_46">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_24">
+            <IconStyle id="substyle_49">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_24">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_48">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_25">
+            <IconStyle id="substyle_51">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_25">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_50">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_26">
+            <IconStyle id="substyle_53">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_26">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_52">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_27">
+            <IconStyle id="substyle_55">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_27">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_54">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_28">
+            <IconStyle id="substyle_57">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_28">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_56">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_29">
+            <IconStyle id="substyle_59">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_29">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_58">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_30">
+            <IconStyle id="substyle_61">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_30">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_60">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_31">
+            <IconStyle id="substyle_63">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_31">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_62">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="stylesel_32">
+            <IconStyle id="substyle_65">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_32">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="substyle_64">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="feat_93">
+            <name>DSC01400</name>
+            <description>&lt;img src=&quot;DSC01400.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_90">
+                <coordinates>73.0227378,18.942517,(4897, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>DSC01401</name>
+            <description>&lt;img src=&quot;DSC01401.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_91">
+                <coordinates>73.0226768,18.9427945,(9861, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>DSC01402</name>
+            <description>&lt;img src=&quot;DSC01402.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_92">
+                <coordinates>73.0226777,18.9430594,(197, 2)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>DSC01403</name>
+            <description>&lt;img src=&quot;DSC01403.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_93">
+                <coordinates>73.0226769,18.9433224,(993, 10)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>DSC01404</name>
+            <description>&lt;img src=&quot;DSC01404.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_94">
+                <coordinates>73.0226645,18.9435852,(503, 5)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>DSC01405</name>
+            <description>&lt;img src=&quot;DSC01405.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_95">
+                <coordinates>73.0226378,18.9438673,(2057, 20)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>DSC01406</name>
+            <description>&lt;img src=&quot;DSC01406.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_96">
+                <coordinates>73.0226023,18.9441292,(10221, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>DSC01407</name>
+            <description>&lt;img src=&quot;DSC01407.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_97">
+                <coordinates>73.0225499,18.9443962,(10029, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>DSC01408</name>
+            <description>&lt;img src=&quot;DSC01408.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_98">
+                <coordinates>73.0225026,18.944665,(10213, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>DSC01409</name>
+            <description>&lt;img src=&quot;DSC01409.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_99">
+                <coordinates>73.0224638,18.9449248,(10213, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>DSC01410</name>
+            <description>&lt;img src=&quot;DSC01410.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_100">
+                <coordinates>73.0224142,18.9452003,(10257, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>DSC01411</name>
+            <description>&lt;img src=&quot;DSC01411.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_101">
+                <coordinates>73.0223668,18.9454748,(2496, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>DSC01412</name>
+            <description>&lt;img src=&quot;DSC01412.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_102">
+                <coordinates>73.0223247,18.9457327,(9869, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>DSC01413</name>
+            <description>&lt;img src=&quot;DSC01413.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_16</styleUrl>
+            <Point id="geom_103">
+                <coordinates>73.0222896,18.9459934,(2441, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>DSC01414</name>
+            <description>&lt;img src=&quot;DSC01414.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_104">
+                <coordinates>73.022258,18.9462536,(1969, 20)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>DSC01415</name>
+            <description>&lt;img src=&quot;DSC01415.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_105">
+                <coordinates>73.0222272,18.9465149,(9771, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>DSC01416</name>
+            <description>&lt;img src=&quot;DSC01416.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_106">
+                <coordinates>73.0221966,18.9467904,(10053, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>DSC01417</name>
+            <description>&lt;img src=&quot;DSC01417.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_20</styleUrl>
+            <Point id="geom_107">
+                <coordinates>73.0221493,18.9470638,(1973, 20)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>DSC01418</name>
+            <description>&lt;img src=&quot;DSC01418.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_21</styleUrl>
+            <Point id="geom_108">
+                <coordinates>73.0220871,18.9473376,(9777, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>DSC01419</name>
+            <description>&lt;img src=&quot;DSC01419.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_22</styleUrl>
+            <Point id="geom_109">
+                <coordinates>73.0220364,18.9475939,(197, 2)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>DSC01420</name>
+            <description>&lt;img src=&quot;DSC01420.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_23</styleUrl>
+            <Point id="geom_110">
+                <coordinates>73.0219991,18.9478549,(9693, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>DSC01421</name>
+            <description>&lt;img src=&quot;DSC01421.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_24</styleUrl>
+            <Point id="geom_111">
+                <coordinates>73.0219518,18.9481346,(2429, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>DSC01422</name>
+            <description>&lt;img src=&quot;DSC01422.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_25</styleUrl>
+            <Point id="geom_112">
+                <coordinates>73.0219063,18.9483921,(1987, 20)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>DSC01423</name>
+            <description>&lt;img src=&quot;DSC01423.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_113">
+                <coordinates>73.0225801,18.9487612,(9749, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>DSC01424</name>
+            <description>&lt;img src=&quot;DSC01424.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_26</styleUrl>
+            <Point id="geom_114">
+                <coordinates>73.0228151,18.9486172,(4847, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>DSC01425</name>
+            <description>&lt;img src=&quot;DSC01425.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_115">
+                <coordinates>73.0229491,18.9483629,(9811, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>DSC01426</name>
+            <description>&lt;img src=&quot;DSC01426.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_116">
+                <coordinates>73.02295649999999,18.9480954,(9913, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>DSC01427</name>
+            <description>&lt;img src=&quot;DSC01427.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_117">
+                <coordinates>73.022938,18.9478131,(2457, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>DSC01428</name>
+            <description>&lt;img src=&quot;DSC01428.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_118">
+                <coordinates>73.0229201,18.947550800000002,(4933, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>DSC01429</name>
+            <description>&lt;img src=&quot;DSC01429.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_119">
+                <coordinates>73.0229223,18.9472777,(1971, 20)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>DSC01430</name>
+            <description>&lt;img src=&quot;DSC01430.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_120">
+                <coordinates>73.0229483,18.9469983,(9847, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>DSC01431</name>
+            <description>&lt;img src=&quot;DSC01431.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_27</styleUrl>
+            <Point id="geom_121">
+                <coordinates>73.0229836,18.9467398,(9913, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>DSC01432</name>
+            <description>&lt;img src=&quot;DSC01432.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_122">
+                <coordinates>73.0230147,18.9464759,(9973, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>DSC01433</name>
+            <description>&lt;img src=&quot;DSC01433.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_123">
+                <coordinates>73.0230453,18.9462067,(9989, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>DSC01434</name>
+            <description>&lt;img src=&quot;DSC01434.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_124">
+                <coordinates>73.0230791,18.9459259,(9963, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>DSC01435</name>
+            <description>&lt;img src=&quot;DSC01435.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_125">
+                <coordinates>73.0231213,18.9456388,(2007, 20)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>DSC01436</name>
+            <description>&lt;img src=&quot;DSC01436.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_126">
+                <coordinates>73.0231523,18.9453632,(10231, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>DSC01437</name>
+            <description>&lt;img src=&quot;DSC01437.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_127">
+                <coordinates>73.0231881,18.9450846,(4949, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>DSC01438</name>
+            <description>&lt;img src=&quot;DSC01438.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_128">
+                <coordinates>73.0232399,18.9447997,(389, 4)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>DSC01439</name>
+            <description>&lt;img src=&quot;DSC01439.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_129">
+                <coordinates>73.023299,18.9445242,(483, 5)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>DSC01440</name>
+            <description>&lt;img src=&quot;DSC01440.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_130">
+                <coordinates>73.0233489,18.9442502,(4897, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>DSC01441</name>
+            <description>&lt;img src=&quot;DSC01441.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_131">
+                <coordinates>73.0233979,18.9439887,(1981, 20)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>DSC01442</name>
+            <description>&lt;img src=&quot;DSC01442.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_132">
+                <coordinates>73.023439,18.943724500000002,(2472, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>DSC01443</name>
+            <description>&lt;img src=&quot;DSC01443.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_133">
+                <coordinates>73.0234823,18.9434571,(4917, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>DSC01444</name>
+            <description>&lt;img src=&quot;DSC01444.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_134">
+                <coordinates>73.0235211,18.943193700000002,(9787, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>DSC01445</name>
+            <description>&lt;img src=&quot;DSC01445.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_135">
+                <coordinates>73.0235583,18.9429321,(2414, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>DSC01446</name>
+            <description>&lt;img src=&quot;DSC01446.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_136">
+                <coordinates>73.0236011,18.9426662,(4841, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>DSC01447</name>
+            <description>&lt;img src=&quot;DSC01447.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_137">
+                <coordinates>73.024428,18.9421259,(4859, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>DSC01451</name>
+            <description>&lt;img src=&quot;DSC01451.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_138">
+                <coordinates>73.0244015,18.943147,(4973, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>DSC01452</name>
+            <description>&lt;img src=&quot;DSC01452.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_139">
+                <coordinates>73.02431,18.9434037,(9889, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>DSC01453</name>
+            <description>&lt;img src=&quot;DSC01453.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_140">
+                <coordinates>73.0242588,18.9436757,(9933, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>DSC01454</name>
+            <description>&lt;img src=&quot;DSC01454.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_141">
+                <coordinates>73.0242252,18.9439533,(9911, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>DSC01455</name>
+            <description>&lt;img src=&quot;DSC01455.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_142">
+                <coordinates>73.0241924,18.9442362,(9967, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>DSC01456</name>
+            <description>&lt;img src=&quot;DSC01456.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_143">
+                <coordinates>73.0241702,18.9445147,(2442, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>DSC01457</name>
+            <description>&lt;img src=&quot;DSC01457.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_144">
+                <coordinates>73.0241393,18.9447923,(9753, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>DSC01458</name>
+            <description>&lt;img src=&quot;DSC01458.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_145">
+                <coordinates>73.02411719999999,18.945065200000002,(10189, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>DSC01459</name>
+            <description>&lt;img src=&quot;DSC01459.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_146">
+                <coordinates>73.0240913,18.9453342,(10047, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>DSC01460</name>
+            <description>&lt;img src=&quot;DSC01460.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_147">
+                <coordinates>73.0240384,18.945603900000002,(205, 2)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>DSC01462</name>
+            <description>&lt;img src=&quot;DSC01462.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_148">
+                <coordinates>73.0239493,18.946148700000002,(2428, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>DSC01463</name>
+            <description>&lt;img src=&quot;DSC01463.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_149">
+                <coordinates>73.0238875,18.9464251,(9503, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>DSC01464</name>
+            <description>&lt;img src=&quot;DSC01464.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_150">
+                <coordinates>73.0238186,18.946686,(2398, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>DSC01465</name>
+            <description>&lt;img src=&quot;DSC01465.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_151">
+                <coordinates>73.0237878,18.9469484,(9873, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>DSC01466</name>
+            <description>&lt;img src=&quot;DSC01466.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_152">
+                <coordinates>73.0237522,18.9472156,(10101, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>DSC01467</name>
+            <description>&lt;img src=&quot;DSC01467.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_153">
+                <coordinates>73.0237213,18.9475014,(10219, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>DSC01468</name>
+            <description>&lt;img src=&quot;DSC01468.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_154">
+                <coordinates>73.0237021,18.9477623,(2591, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>DSC01469</name>
+            <description>&lt;img src=&quot;DSC01469.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_155">
+                <coordinates>73.0236799,18.9480334,(415, 4)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>DSC01470</name>
+            <description>&lt;img src=&quot;DSC01470.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_156">
+                <coordinates>73.02364299999999,18.9483134,(2542, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>DSC01471</name>
+            <description>&lt;img src=&quot;DSC01471.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_157">
+                <coordinates>73.023611,18.9485731,(2449, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>DSC01472</name>
+            <description>&lt;img src=&quot;DSC01472.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_158">
+                <coordinates>73.0242926,18.948914,(193, 2)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>DSC01473</name>
+            <description>&lt;img src=&quot;DSC01473.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_159">
+                <coordinates>73.024543,18.9487546,(4749, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>DSC01474</name>
+            <description>&lt;img src=&quot;DSC01474.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_28</styleUrl>
+            <Point id="geom_160">
+                <coordinates>73.0246602,18.9485176,(4733, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>DSC01475</name>
+            <description>&lt;img src=&quot;DSC01475.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_161">
+                <coordinates>73.0246718,18.9482458,(2422, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>DSC01476</name>
+            <description>&lt;img src=&quot;DSC01476.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_162">
+                <coordinates>73.0246432,18.9479862,(4931, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>DSC01477</name>
+            <description>&lt;img src=&quot;DSC01477.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_163">
+                <coordinates>73.0246141,18.9477213,(9867, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>DSC01478</name>
+            <description>&lt;img src=&quot;DSC01478.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_164">
+                <coordinates>73.0246105,18.9474433,(9961, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>DSC01479</name>
+            <description>&lt;img src=&quot;DSC01479.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_165">
+                <coordinates>73.0246137,18.9471599,(2521, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>DSC01480</name>
+            <description>&lt;img src=&quot;DSC01480.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_166">
+                <coordinates>73.024637,18.9468812,(10177, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>DSC01481</name>
+            <description>&lt;img src=&quot;DSC01481.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_167">
+                <coordinates>73.0246739,18.9466144,(10033, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>DSC01482</name>
+            <description>&lt;img src=&quot;DSC01482.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_168">
+                <coordinates>73.0247217,18.9463488,(9999, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>DSC01483</name>
+            <description>&lt;img src=&quot;DSC01483.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_169">
+                <coordinates>73.0247594,18.9460874,(5039, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_173">
+            <name>DSC01484</name>
+            <description>&lt;img src=&quot;DSC01484.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_170">
+                <coordinates>73.0247913,18.945824,(4973, 50)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>DSC01485</name>
+            <description>&lt;img src=&quot;DSC01485.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_171">
+                <coordinates>73.024845,18.9455592,(2472, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>DSC01486</name>
+            <description>&lt;img src=&quot;DSC01486.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_29</styleUrl>
+            <Point id="geom_172">
+                <coordinates>73.024893,18.9452968,(195, 2)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>DSC01487</name>
+            <description>&lt;img src=&quot;DSC01487.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_30</styleUrl>
+            <Point id="geom_173">
+                <coordinates>73.0249376,18.9450337,(9671, 100)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>DSC01489</name>
+            <description>&lt;img src=&quot;DSC01489.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_31</styleUrl>
+            <Point id="geom_174">
+                <coordinates>73.0250014,18.9444885,(1977, 20)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>DSC01490</name>
+            <description>&lt;img src=&quot;DSC01490.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <styleUrl>#stylesel_32</styleUrl>
+            <Point id="geom_175">
+                <coordinates>73.0250394,18.9442135,(1999, 20)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>DSC01491</name>
+            <description>&lt;img src=&quot;DSC01491.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_176">
+                <coordinates>73.0250769,18.9439387,(2544, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>DSC01492</name>
+            <description>&lt;img src=&quot;DSC01492.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_177">
+                <coordinates>73.0251191,18.9436651,(2532, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>DSC01493</name>
+            <description>&lt;img src=&quot;DSC01493.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_178">
+                <coordinates>73.0251699,18.9433873,(2536, 25)</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>DSC01494</name>
+            <description>&lt;img src=&quot;DSC01494.JPG&quot; alt=&quot;picture&quot; width=&quot;400&quot; height=&quot;300&quot; align=&quot;left&quot;/&gt;</description>
+            <Point id="geom_179">
+                <coordinates>73.0252171,18.943110400000002,(5151, 50)</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
